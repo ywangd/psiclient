@@ -1,5 +1,7 @@
 """
-Basic client for Pythonista Script Index
+Basic client for Pythonista Script Index (https://github.com/ywangd/Pythonista-Script-Index)
+
+https://github.com/ywangd/psiclient
 """
 import platform
 import sys
